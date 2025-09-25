@@ -63,7 +63,7 @@ O repositório está organizado da seguinte forma:
     - Digite o comando (1 ou 0) que o script exibe no Monitor Serial do Wokwi para controlar o sistema remotamente.
 
 ### Demonstração em Vídeo
-- **Link do Vídeo:** [Adicione aqui o link do seu vídeo no YouTube (não listado)](https://youtu.be/Hd4_drLFK9s)
+- **Link do Vídeo:** [Adicione aqui o link do seu vídeo no YouTube (não listado)](https://youtu.be/VDh1yUNcvDM)
 
 ### Contribuição
 - **Autores:** Maria Luiza Oliveira Carvalho, Miriã Leal Mantovani, João Pedro Santos Azevedo e Rodrigo de Souza Freitas.
