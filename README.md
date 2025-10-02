@@ -1,4 +1,4 @@
-# Projeto PBL - Fase 2, Cap. 1: "Um Mapa do Tesouro"
+# Projeto PBL - Fase 2, Cap. 1: "Um Mapa do Tesouro - FIAP"
 
 ### Visão Geral do Projeto
 Este projeto, desenvolvido como parte da Fase 2, Capítulo 1 do Programa PBL, demonstra a aplicação de Internet das Coisas (IoT) e Inteligência Artificial (IA) em um ambiente agrícola. O sistema de irrigação inteligente, simulado com um microcontrolador ESP32 na plataforma Wokwi.com, otimiza o uso de água e maximiza a produtividade, tomando decisões de irrigação com base em dados de sensores e informações externas.
