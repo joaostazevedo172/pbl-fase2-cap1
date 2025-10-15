@@ -67,3 +67,4 @@ O repositório está organizado da seguinte forma:
 
 ### Contribuição
 - **Autores:** Maria Luiza Oliveira Carvalho, Miriã Leal Mantovani, João Pedro Santos Azevedo e Rodrigo de Souza Freitas.
+- **Tutora:** Sabrina Otoni
