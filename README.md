@@ -1,4 +1,16 @@
-# Projeto PBL - Fase 2, Cap. 1: "Um Mapa do Tesouro - FIAP"
+# FIAP - Faculdade de Informática e Administração Paulista
+
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="https://th.bing.com/th/id/OIP.3xs_MSeNC0T1UOrJaCEqWAHaEK?w=298&h=180&c=7&r=0&o=7&cb=12&dpr=1.3&pid=1.7&rm=3" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=40% height=40%></a>
+</p>
+
+<br>
+
+# Projeto PBL - Fase 2, Cap. 1: "Um Mapa do Tesouro"
+
+### Contribuição
+- **Autores:** Maria Luiza Oliveira Carvalho, Miriã Leal Mantovani, João Pedro Santos Azevedo e Rodrigo de Souza Freitas.
+- **Tutora:** Sabrina Otoni
 
 ### Visão Geral do Projeto
 Este projeto, desenvolvido como parte da Fase 2, Capítulo 1 do Programa PBL, demonstra a aplicação de Internet das Coisas (IoT) e Inteligência Artificial (IA) em um ambiente agrícola. O sistema de irrigação inteligente, simulado com um microcontrolador ESP32 na plataforma Wokwi.com, otimiza o uso de água e maximiza a produtividade, tomando decisões de irrigação com base em dados de sensores e informações externas.
@@ -64,6 +76,3 @@ O repositório está organizado da seguinte forma:
 
 ### Demonstração em Vídeo
 - **Link do Vídeo:** https://youtu.be/VDh1yUNcvDM
-
-### Contribuição
-- **Autores:** Maria Luiza Oliveira Carvalho, Miriã Leal Mantovani, João Pedro Santos Azevedo e Rodrigo de Souza Freitas.
